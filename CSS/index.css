@@ -1,0 +1,47 @@
+body {
+    background-color: #E6FFFD;
+    font-family: 'Roboto', sans-serif;
+}
+
+.mainContainer{
+    width: 600px;
+    height: 350px;
+    background-color: #ACBCFF;
+    border-radius: 25px;
+}
+
+.topContainer {
+    height: 175px;
+    border-top-width:0px;
+    border-bottom: 5px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    box-shadow: none;
+    border-style: solid;
+}
+
+.bottomContainer{
+    height: 175px;
+    color: white;
+    font-size: 25px;
+}
+
+.mainTemp{
+    color: white;
+    font-weight: bold;
+    font-size: 100px;
+}
+
+.descTemp{
+    color: white;
+    font-size: 25px;
+}
+
+.leftInfo{
+    margin-left: 20px;
+}
+
+.rightInfo{
+    margin-right: 20px;
+}
+
